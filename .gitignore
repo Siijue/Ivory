@@ -12,3 +12,7 @@ Config/
 *.VC.opendb
 *.user
 *.uproject.user
+/__ExternalActors__/
+/__ExternalObjects__/
+*HLOD*.uasset
+*HLOD*.umap
