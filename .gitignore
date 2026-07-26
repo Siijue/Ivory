@@ -1,11 +1,14 @@
 # Unreal Engine 5
-/.idea/
-/Build/
-/DerivedDataCache/
-/Intermediate/
-/Saved/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Config/
 *.sdf
 *.opensdf
 *.sln
 *.VC.db
 *.VC.opendb
+*.user
+*.uproject.user
