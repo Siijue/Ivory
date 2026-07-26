@@ -1,0 +1,11 @@
+# Unreal Engine 5
+/.idea/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+*.sdf
+*.opensdf
+*.sln
+*.VC.db
+*.VC.opendb
